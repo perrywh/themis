@@ -4,7 +4,7 @@ Data does not govern itself.
 
 We are developing a **scalable** [human-centered data governance](https://tinyurl.com/HumanCenteredDataGov) platform to enable sustainable digital transformations for organizations, large or small.
 
-![Governance by the people](https://github.com/perrywh/themis/blob/master/HumanCentered-DG.jpg)
+![Governance by the people](https://github.com/perrywh/themis/blob/master/HumanCentered-DG.png)
 
 [editor on GitHub](https://github.com/perrywh/themis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
