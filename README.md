@@ -6,6 +6,6 @@ We are developing a **scalable** [human-centered data governance](https://tinyur
 
 ![Governance by the people](https://github.com/perrywh/themis/blob/master/HumanCentered-DG.png)
 
-### Support or Contact
+### Contact
 
 If you want to to learn more about Themis project, `open an issue` and ask your question(s) related to the project.
