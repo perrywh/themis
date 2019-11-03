@@ -8,4 +8,4 @@ We are developing a **scalable** [human-centered data governance](https://tinyur
 
 ### Support or Contact
 
-If you want to to learn more about Themis project, 'open an issue' and ask your question related to the project.
+If you want to to learn more about Themis project, `open an issue` and ask your question(s) related to the project.
