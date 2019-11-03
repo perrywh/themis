@@ -8,4 +8,4 @@ We help organizations launch, scale, and manage a sustainable [human-centered da
 
 ### Contact
 
-If you want to to learn more about Themis project, `open an issue` and ask your question(s) related to the project.
+If you want to to learn more about Themis project, `open an issue` and ask your questions related to the project.
