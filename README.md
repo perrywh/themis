@@ -2,7 +2,7 @@
 
 Data does not govern itself.
 
-We are developing a **scalable** [human-centered data governance](https://tinyurl.com/HumanCenteredDataGov) platform to enable sustainable digital transformations for organizations, large or small.
+We help organizations, large or small, manage a sustainable [human-centered data governance](https://tinyurl.com/HumanCenteredDataGov).
 
 ![Governance by the people](/HumanCentered-DG.png)
 
