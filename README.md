@@ -2,7 +2,7 @@
 
 Data does not govern itself.
 
-We are developing human-centered data governance platform.
+We are developing [human-centered data governance](https://tinyurl.com/HumanCenteredDataGov) platform.
 
 [editor on GitHub](https://github.com/perrywh/themis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
